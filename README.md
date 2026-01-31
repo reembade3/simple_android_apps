@@ -3,9 +3,8 @@ A collection of simple Android applications built with Kotlin, including Quiz Ap
 
 ## Projects
 
-### Calculator App
-- Performs basic arithmetic operations.
-- Simple UI with user input handling.
+### Quiz App
+- Simple quiz app with multiple-choice questions.
 
 ### BMI Calculator
 - Calculates Body Mass Index (BMI) based on height and weight.
